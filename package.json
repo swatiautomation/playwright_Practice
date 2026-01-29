@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Playwright practice",
   "main": "index.js",
+  "type": "module",
   "scripts": {},
   "author": "",
   "license": "ISC",
@@ -14,6 +15,7 @@
     "allure-playwright": "^3.4.5"
   },
   "dependencies": {
+    "dotenv": "^17.2.3",
     "luxon": "^3.7.2"
   }
 }
