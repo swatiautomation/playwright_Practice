@@ -1,6 +1,6 @@
 //Load playwright module
 import { test, expect } from '@playwright/test';
-const bookingReq = require('../test-data/test-data.json');
+import bookingReq from '../../test-data/test-data.json' assert { type: 'json' };
 
 //write tests
 test('Create POST request using static JSON file', async ({ request }) => {

@@ -1,0 +1,10 @@
+Todos from Local Storage: [
+  {
+    id: '84de5e02-3d9e-4bb3-96ec-35016b481c23',
+    content: "With ideas and structure delivered straight to the page you're already on, you'll never miss a deadline again.",
+    dueDate: '2026-12-31',
+    completed: false,
+    archived: false,
+    createdAt: '2026-01-30T15:55:19.994Z'
+  }
+]

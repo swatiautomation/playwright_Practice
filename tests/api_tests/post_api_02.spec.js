@@ -1,7 +1,7 @@
 //Load playwright module
 import { test, expect } from '@playwright/test';
 import { faker } from '@faker-js/faker';
-const { DateTime } = require('luxon');
+import { DateTime } from 'luxon';
 
 //write tests
 test('Create POST request using dynamic request body', async ({ request }) => {

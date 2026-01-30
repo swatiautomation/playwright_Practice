@@ -1,9 +1,9 @@
 //Load playwright module
 import { test, expect } from '@playwright/test';
-const bookingDynamicReq = require('../test-data/test-data-dynamic.json');
-const putReq = require('../test-data/put-data.json');
-const putReqBody = require('../test-data/put_req_body.json');
-import { stringFormat } from '../utils/common.js';
+import bookingDynamicReq from '../../test-data/test-data-dynamic.json' assert { type: 'json' };
+import putReq from '../../test-data/put-data.json' assert { type: 'json' };
+import putReqBody from '../../test-data/put_req_body.json' assert { type: 'json' };
+import { stringFormat } from '../../utils/common.js';
 import { get } from 'node:http';
 
 //write tests

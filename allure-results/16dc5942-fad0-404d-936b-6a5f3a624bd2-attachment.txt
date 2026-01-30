@@ -1,0 +1,10 @@
+Todos from Local Storage: [
+  {
+    id: '40408945-4480-4d79-946f-ef5a3777dc0f',
+    content: 'Buy groceries',
+    dueDate: '2026-12-22',
+    completed: false,
+    archived: false,
+    createdAt: '2026-01-30T15:55:19.774Z'
+  }
+]

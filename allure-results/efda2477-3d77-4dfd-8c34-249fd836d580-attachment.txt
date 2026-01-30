@@ -1,0 +1,20 @@
+Todo from Local Storage: [
+  {
+    id: '0239d7e3-8bc0-413c-8ea0-5406923e461b',
+    content: 'Archive me',
+    dueDate: '2026-12-31',
+    completed: false,
+    archived: false,
+    createdAt: '2026-01-30T15:55:36.153Z'
+  }
+]
+Archived Todo from Local Storage: [
+  {
+    id: '0239d7e3-8bc0-413c-8ea0-5406923e461b',
+    content: 'Archive me',
+    dueDate: '2026-12-31',
+    completed: false,
+    archived: true,
+    createdAt: '2026-01-30T15:55:36.153Z'
+  }
+]

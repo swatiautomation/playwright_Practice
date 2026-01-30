@@ -1,0 +1,10 @@
+Todos from Local Storage: [
+  {
+    id: '531fd1d8-79fc-4bc0-97fa-bb102f6957e6',
+    content: 'Pay bills',
+    dueDate: '0001-01-01',
+    completed: false,
+    archived: false,
+    createdAt: '2026-01-30T15:55:21.033Z'
+  }
+]

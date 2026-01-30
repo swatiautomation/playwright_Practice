@@ -1,7 +1,7 @@
 //Load playwright module
 import { test, expect } from '@playwright/test';
-const bookingDynamicReq = require('../test-data/test-data-dynamic.json');
-import { stringFormat } from '../utils/common.js';
+import bookingDynamicReq from '../../test-data/test-data-dynamic.json' assert { type: 'json' };
+import { stringFormat } from '../../utils/common.js';
 import { get } from 'node:http';
 
 //write tests
